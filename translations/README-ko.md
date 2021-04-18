@@ -242,7 +242,7 @@
 
 ## 인터뷰 과정 & 전반적인 인터뷰 준비 과정
 
-- [ ] [ABC: 항상 코딩 하라](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [x] [ABC: 항상 코딩 하라](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
 - [ ] [화이트 보드 쓰기](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] Big 4에 취업하는 방법:
@@ -270,6 +270,9 @@
 - C++
 - Java
 - Python
+
+나는 C#으로 결정했다.
+원래부터 공부하고 싶던 언어였고, C++보다는 편하기 때문...
 
 아래 언어들을 사용할 수 있지만 주의하여야 합니다.
 
