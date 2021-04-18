@@ -243,10 +243,59 @@
 ## 인터뷰 과정 & 전반적인 인터뷰 준비 과정
 
 - [x] [ABC: 항상 코딩 하라](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [화이트 보드 쓰기](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-- [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
-- [ ] Big 4에 취업하는 방법:
-    - [ ] ['Big 4에 취업하는 방법 - Amazon, Facebook, Google & Microsoft' (영상)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+    <details>
+    <summary>요약</summary>
+
+    - 저자 정보
+        - 19살부터 무일푼으로 대학학위 없이 프로그래밍 시작.
+        - 굉장히 많은 회사에 근무(구글, 반다이, 더블 헬릭스 등...)
+        - 굉장히 많은 회사에서 오퍼 받음 (엑티비젼, 라이엇 게임즈 등...)
+
+    - 이 글의 목적
+        - 무조건 합격할 수 있는 방법을 알려주는게 아니다.
+        - 적절하게 준비할 수 있는 방법을 알려주려고 한다.
+
+    - 기술적인 Tips
+        1. ABC (Always be coding)
+            - 많이 코딩할 수록 좋다. 매우 심플한 아이디어다.
+            - 가장 좋은 방법은 Focused Practice 이다.
+                - 목적을 항상 상기시켜라.
+                - 새로운 영역을 탐구하라.
+                - 스스로 도전하라.
+            - GitHub는 포트폴리오를 보여주기 아주 좋은 공간이다.
+
+        2. 하나 이상의 Multi-Paradigm 언어를 마스터해라.
+            - 마스터하기 위해, 많은 양의 코드를 작성하고, 많이 읽고, 많이 연습해야한다.
+            - 몇몇 좋은 후보군은, C#, C++, Java, PHP, Python, Ruby 이다.
+
+        3. 시간 복잡도에 대해서 알아라.
+            - [치트시트 사이트](https://www.bigocheatsheet.com/) 에 있는 것을 코딩연습해봐라.
+            - 그리고 알고 넘어가자.
+
+        4. Re-invent the wheel
+            - 기존에 있는 일반적인 데이터 구조를 직접 다시 구현해봐라.
+            - 이미 제공하고 있는 다양한 함수들을 스스로 구현해봐라.
+
+        5. Solve word problems
+            - [탑코더](https://www.topcoder.com/thrive/search?tags[]=Competitive%20Programming%20Tutorials) 사이트에 있는 다양한 연습문제를 경험해보자.
+            - 최소 40시간은 노력하자.
+        
+        6. Make coding easy
+            - 최소한 보기에는 쉽게 코딩하자.
+            
+    - 일반적인 Tips
+        1. Know why you’re there
+        2. Be passionate
+        3. Don’t make assumptions
+        4. Smile
+
+
+    </details>
+
+- [x] [화이트 보드 쓰기](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [-] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
+- [-] Big 4에 취업하는 방법:
+    - [-] ['Big 4에 취업하는 방법 - Amazon, Facebook, Google & Microsoft' (영상)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 - [ ] 코딩 인터뷰 정복 Set 1:
     - [ ] [Gayle L McDowell - 코딩 인터뷰 정복 (영상)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
     - [ ] [저자와 함께하는 코딩 인터뷰 정복 (영상)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
@@ -330,7 +379,7 @@
 
 - [ ] [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
 - [ ] [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
-- [ ] [Open Data Structures in C++](https://opendatastructures.org/ods-cpp.pdf)
+- [x] [Open Data Structures in C++](https://opendatastructures.org/ods-cpp.pdf)
     - 자세하고 많은 자료구조와 알고리즘.
     - 처음 시도 하는 사람에게 좋은 선택.
 
