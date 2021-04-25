@@ -21,3 +21,7 @@ Thumbs.db
 Src/CSharp/CodePractice/CodePractice/bin/*
 Src/CSharp/CodePractice/CodePractice/obj/*
 Src/CSharp/CodePractice/.vs/*
+
+
+**/bin/*
+**/obj/*

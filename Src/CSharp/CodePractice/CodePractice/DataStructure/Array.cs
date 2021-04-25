@@ -13,7 +13,7 @@ namespace CodePractice.DataStructure
 		///   <see langword="true" /> if the <see cref="T:System.Collections.IList" /> has a fixed size; otherwise, <see langword="false" />.</returns>
 		public bool IsFixedSize
 		{
-			get;
+			get { return false; }
 		}
 
 		/// <summary>Gets a value indicating whether the <see cref="T:System.Collections.IList" /> is read-only.</summary>
@@ -21,7 +21,7 @@ namespace CodePractice.DataStructure
 		///   <see langword="true" /> if the <see cref="T:System.Collections.IList" /> is read-only; otherwise, <see langword="false" />.</returns>
 		public bool IsReadOnly
 		{
-			get;
+            get { return false; }
 		}
 
 		/// <summary>Gets or sets the element at the specified index.</summary>
@@ -33,7 +33,7 @@ namespace CodePractice.DataStructure
 		public object? this[int index]
 		{
 			get { return items[index]; }
-			set { }
+			set { items[index] = value; }
 		}
 
 		/// <summary>Adds an item to the <see cref="T:System.Collections.IList" />.</summary>
@@ -44,7 +44,10 @@ namespace CodePractice.DataStructure
 		///
 		///  The <see cref="T:System.Collections.IList" /> has a fixed size.</exception>
 		/// <returns>The position into which the new element was inserted, or -1 to indicate that the item was not inserted into the collection.</returns>
-		public int Add(object? value) { return 0; }
+		public int Add(object? value)
+        {
+			return -1;
+		}
 
 		/// <summary>Removes all items from the <see cref="T:System.Collections.IList" />.</summary>
 		/// <exception cref="T:System.NotSupportedException">The <see cref="T:System.Collections.IList" /> is read-only.</exception>
