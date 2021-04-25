@@ -173,6 +173,14 @@ namespace CSharp_Ver1_0
         {
             int* pArray = stackalloc int[1024];
         }
+
+        /*
+         * Todo
+         * - volatile, lock : Thread와 함께 사용됨. 6장에서 계속...
+         * - internal : 프로젝트 구성에서 계속...
+         * - try, catch, throw, finally : 예외처리에서 계속...
+         * - using : 지원 해제에서 계속...
+         */
     }
 
     /*
